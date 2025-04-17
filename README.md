@@ -4,8 +4,9 @@ This repository contains the URDF and Xacro description of a differential drive 
 Installation
 
 Clone the Repository:
+'''
 cd ~/your_workspace_name/src
-git clone https://github.com/kowsik16/differential_drive_robot_with_lidar.git
+git clone https://github.com/kowsik16/differential_drive_robot_with_lidar.git '''
 
 Install Dependencies:
 sudo apt update && rosdep update
