@@ -28,9 +28,9 @@ source install/setup.bash
 
 ### Launch in RViz:
 
-ros2 launch differential_drive_robot_with_lidar display.launch.py
+ros2 launch obslidar_description display.launch.py
 
 
 ### Launch in Gazebo:
 
-ros2 launch differential_drive_robot_with_lidar gazebo.launch.py
+ros2 launch obslidar_description gazebo.launch.py
